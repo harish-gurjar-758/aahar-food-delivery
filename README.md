@@ -7,5 +7,5 @@ In this project devided the user in two types
 1. Coustomer.
 2. Shop.
 # Sign In--
-
+Autheraiges the user for use the APP. For all type of users.
 # Home Page--
